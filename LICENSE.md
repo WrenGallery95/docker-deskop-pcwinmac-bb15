@@ -1,4 +1,4 @@
-# 
+# Élite Docker Desktop plugins para Mac OS | Código abierto Docker Desktop plugins para PC Windows. Con gestión de índices y completado de código — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
